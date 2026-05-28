@@ -1,2 +1,7 @@
-Dashboards/Healthcare_analysis.pbix
+## Healthcare Analysis Dashboard
+This Power BI report analyzes patient data, hospital performance, and treatment outcomes.
+- KPIs: Patient satisfaction, average treatment cost, recovery rate
+- Tools: Power BI, DAX, SQL
+- Insights: Identified top-performing departments and cost optimization opportunities
+
 
